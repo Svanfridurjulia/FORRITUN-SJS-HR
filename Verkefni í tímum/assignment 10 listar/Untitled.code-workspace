@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/Forritun"
+		},
+		{
+			"path": "../../Verkefni í tímum"
+		},
+		{
+			"path": "../../Einstaklings skilaverkefni"
+		},
+		{
+			"path": "../../Verkefni - einstaklings"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

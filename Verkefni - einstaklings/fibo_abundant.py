@@ -16,6 +16,7 @@ if choice == 'f' or choice == 'b':
         #makes the sequence carry on
         number_2 = sum
         print(sum)
+    
 
 
 if choice == 'a' or choice == 'b':
